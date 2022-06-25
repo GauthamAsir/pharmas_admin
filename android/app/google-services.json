@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1091486758779",
+    "project_id": "pharmas-a5c6d",
+    "storage_bucket": "pharmas-a5c6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091486758779:android:ee441f1682e04c85e86fde",
+        "android_client_info": {
+          "package_name": "a.gautham.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091486758779-qq74id44ihkcgmaf93i8s9107c6snnod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVyb9exYGYp5tjbiX5ag0aXq804nzLd1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091486758779-qq74id44ihkcgmaf93i8s9107c6snnod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091486758779-lfpfq3r0so9tgnjcnq72389cpbrtvt1t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "a.gautham.eCommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091486758779:android:c50d5e33e23dd41be86fde",
+        "android_client_info": {
+          "package_name": "a.gautham.e_commerce_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091486758779-qq74id44ihkcgmaf93i8s9107c6snnod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVyb9exYGYp5tjbiX5ag0aXq804nzLd1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091486758779-qq74id44ihkcgmaf93i8s9107c6snnod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091486758779-lfpfq3r0so9tgnjcnq72389cpbrtvt1t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "a.gautham.eCommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
